@@ -26,8 +26,9 @@ Instructors
     Electrical Engineering and Computer Sciences
     <aculich@eecs.berkeley.edu>
     Office Hours: TBD
+    Virtual Office Hours: TBD on ##stat157 channel of freenode.net
 
-    Philip Stark
+    Phillip Stark
     Department of Statistics
     <stark@stat.berkeley.edu>
 
@@ -71,7 +72,6 @@ Topics Covered Will Include:
 
 - Reproducibility and Collaboration
 - Computational Architecture
-- Security and Data Integrity
 - Data structures and formats
 - Content v. Presentation; Web standards
 - Simulation
@@ -81,7 +81,6 @@ Topics Covered Will Include:
 - Data Visualization
 - Code efficiency
 
-You'll find more details in the [topic sketch](./topic-sketch.md).
 
 Specific Objectives
 --------------------
